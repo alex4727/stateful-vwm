@@ -2,7 +2,7 @@
 
 # Can Video World Models Track Unobserved World States?
 
-[Joonghyuk Shin](https://joonghyuk.com/)<sup>1</sup> · [Yicong Hong](https://yiconghong.me/)<sup>2</sup> · [Jaesik Park](https://jaesik.info/)<sup>1</sup> · [Xun Huang](https://www.xunhuang.me/)<sup>2</sup>
+[Joonghyuk Shin](https://joonghyuk.com/)<sup>1</sup> · [Yicong Hong](https://yiconghong.github.io/)<sup>2</sup> · [Jaesik Park](https://jaesik.info/)<sup>1</sup> · [Xun Huang](https://www.xunhuang.me/)<sup>2</sup>
 
 <sup>1</sup>Seoul National University · <sup>2</sup>Roblox
 
